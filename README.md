@@ -1,5 +1,3 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
 <h1 align="center"> Hadi Safari Katesari</h1>
 
@@ -8,12 +6,6 @@
 ## About Me :
 
 - 🏢 I am currently a **Teaching Assistant Professor** at [Stevens Institute of Technology](https://faculty.stevens.edu/hsafarik)
-- 🏢 Former **Teaching Assistant** at [SIUC](https://math.siu.edu/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
 
 
 Last edited on: 07/12/2022
