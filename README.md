@@ -8,7 +8,7 @@
 ## About Me :
 
 - 🏢 I am currently a **Teaching Assistant Professor** at [Stevens Institute of Technology](https://faculty.stevens.edu/hsafarik)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🏢 Former **Teaching Assistant** at [iLabs](https://math.siu.edu/)
 - 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
 - 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
 - 🏡'Lives in **Dalugama Sri Lanka**
