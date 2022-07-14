@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 🏢 I am currently a **Teaching Assistant Professor** at [Stevens Institute of Technology](https://faculty.stevens.edu/hsafarik)
+- 🏢 I am currently a **Teaching Assistant Professor** in the [Department of Mathematical Sciences](https://www.stevens.edu/schaefer-school-engineering-science/departments/mathematical-sciences) at the [Stevens Institute of Technology](https://faculty.stevens.edu/hsafarik).
 
 
 
