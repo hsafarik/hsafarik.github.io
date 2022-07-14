@@ -9,15 +9,15 @@
 
 ## Research 
 
-- 🏢 Safari-Katesari, H., Samadi, S.Y. and Zaroudi, S., 2020. Modelling count data via copulas. Statistics, 54(6), pp.1329-1355.
+- 🏢 Safari-Katesari, H., Samadi, S.Y. and Zaroudi, S., (2020), Modelling count data via copulas, Statistics, 54(6), 1329-1355.
 
 
 ## Teaching
 ### Stevens
 
-- 🏢 MA 541 Statistical methods (on campus and online)
-- 🏢 MA 641 Time series analysis I (on campus and online)
-- 🏢 MA 7011 Statistical Inference
+- 🏢 MA 541 Statistical methods (on campus and online); Syllabus; Fall 2021, Spring 2022, Summer 2022
+- 🏢 MA 641 Time series analysis I (on campus and online); Syllabus; Spring 2022, Summer 2022, Fall 2022
+- 🏢 MA 7011 Statistical Inference; Syllabus; Fall 2021, Fall 2022
 
 
 
