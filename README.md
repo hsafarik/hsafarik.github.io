@@ -15,9 +15,9 @@
 ## Teaching
 ### Stevens
 
-- 🏢 MA 541 Statistical methods (on campus and online); Syllabus; Fall 2021, Spring 2022, Summer 2022
-- 🏢 MA 641 Time series analysis I (on campus and online); Syllabus; Spring 2022, Summer 2022, Fall 2022
-- 🏢 MA 7011 Statistical Inference; Syllabus; Fall 2021, Fall 2022
+- 🏢 MA 541 Statistical methods (on campus and online); Syllabus; For graduate and undergraduate students; Fall 2021, Spring 2022, Summer 2022
+- 🏢 MA 641 Time series analysis I (on campus and online); Syllabus; For graduate and undergraduate students; Spring 2022, Summer 2022, Fall 2022
+- 🏢 MA 7011 Statistical Inference; Syllabus; For graduate students; Fall 2021, Fall 2022
 
 
 
