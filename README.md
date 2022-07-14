@@ -20,7 +20,8 @@
 - 🏢 MA 7011 Statistical Inference; Syllabus; For graduate students; Fall 2021, Fall 2022
 
 
-
+## Contact
+- hsafarik@stevens.edu
 
 
 
