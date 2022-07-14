@@ -13,7 +13,7 @@
 
 
 ## Teaching
-# Stevens
+### Stevens
 
 - 🏢 MA 541 Statistical methods (on campus and online)
 - 🏢 MA 641 Time series analysis I (on campus and online)
